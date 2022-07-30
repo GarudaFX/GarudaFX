@@ -1,3 +1,4 @@
-<h2>Hi<h2>
-
-<img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarudaFX&theme=dark&layout=compact&hide_border=true" />
+<h3>Hi</h3>
+<br>
+<h4>Statistics</h4>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarudaFX&show_icons=true&theme=radical)
