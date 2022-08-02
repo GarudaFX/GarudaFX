@@ -8,4 +8,4 @@
   <h4>Repositories</h4>
   <hr width="80px">  
 </div>
-<img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=GarudaFX&show_owner&repo=js-notes&theme=noctis_minimus">
+
